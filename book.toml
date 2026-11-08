@@ -1,0 +1,7 @@
+[book]
+title = "Intrinsic Health Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling Cohen (2026) 'Intrinsic Health' (The Science and Experience of Energy, Substack) — the intrinsic/realized health framework, first-principles organism theory, the three pillars (energy, communication, structure), and how to measure an emergent health property."
+
+[build]
+charset = "utf-8"
